@@ -1,0 +1,6 @@
+itertools
+matplotlib
+networkx
+numpy
+scipy 
+sklearn
